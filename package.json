@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://xchan14.github.io/profile",
   "dependencies": {
+    "@material-ui/core": "^4.4.3",
     "gh-pages": "^2.1.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
